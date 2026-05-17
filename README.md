@@ -1,2 +1,2 @@
 # dont_miss_signup
-Ever tried to sign up for a match but you were 20 minutes late and now you're waitlisted? stay on top of when registration goes live
+This program is designed to automatically check your preferred practiscore clubs for new match listings, and using signal-cli will send a signal message containing the date and time that the registration will go live, as well as the url to the match itself so you can manage it more easily. It can also be configured to send a message at a customizable time interval, with the url, before the match registration goes live.
